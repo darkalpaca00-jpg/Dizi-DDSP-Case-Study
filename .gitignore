@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+checkpoints/
+*.pt
+synthetic_audio_dataset/
+synthetic_midi_dataset/
+Dizi.sf2
+*.wav
+*.mid
+*.npy
