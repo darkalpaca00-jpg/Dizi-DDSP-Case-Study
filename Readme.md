@@ -45,18 +45,3 @@ Train the DDSP synthesizer and generate high-fidelity flute phrases:
 Bash
 python train.py
 python generate_dizi.py
-
-
-Case Study on the Chinese Dizi/  （
-├── .gitignore
-├── requirements.txt
-├── README.md                   
-├── model.py
-├── train.py
-├── dataset.py
-├── generate_scores.py
-├── batch_render.py
-├── extract_features.py
-├── prepare_data_split.py
-├── generate_dizi.py
-└── probe_sf2.py
